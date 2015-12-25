@@ -1,0 +1,89 @@
+50
+            JD --- --- ---
+
+  QH       10D  QC  7S  KS
+ ### ---  
+> rt 4
+            JD --- --- ---
+
+  JH       10D  QC  7S  KS
+ ### ---   --- --- ---  QH
+> rf
+            JD  JH --- ---
+
+  5S       10D  QC  7S  KS
+ ### ---   --- --- ---  QH
+> ft 2
+Error: Invalid or missing argument
+            JD  JH --- ---
+
+  5S       10D  QC  7S  KS
+ ### ---   --- --- ---  QH
+> ft 2 2
+Error: JH must go to the foundation
+            JD  JH --- ---
+
+  5S       10D  QC  7S  KS
+ ### ---   --- --- ---  QH
+> c
+            JD  JH --- ---
+
+  5S       10D  QC  7S  KS
+ ### 10H   --- --- ---  QH
+> c
+            JD  JH --- ---
+
+  5S       10D  QC  7S  KS
+ ###  9S   --- --- ---  QH
+> wt 1
+            JD  JH --- ---
+
+  5S       10D  QC  7S  KS
+ ###  8H    9S --- ---  QH
+> c
+            JD  JH --- ---
+
+  5S       10D  QC  7S  KS
+ ###  2H    9S --- ---  QH
+> c
+            JD  JH --- ---
+
+  5S       10D  QC  7S  KS
+ ###  7D    9S --- ---  QH
+> u
+            JD  JH --- ---
+
+  5S       10D  QC  7S  KS
+ ###  2H    9S --- ---  QH
+> u
+            JD  JH --- ---
+
+  5S       10D  QC  7S  KS
+ ###  8H    9S --- ---  QH
+> u
+            JD  JH --- ---
+
+  5S       10D  QC  7S  KS
+ ###  9S   --- --- ---  QH
+> u
+            JD  JH --- ---
+
+  5S       10D  QC  7S  KS
+ ### 10H   --- --- ---  QH
+> u
+            JD  JH --- ---
+
+  5S       10D  QC  7S  KS
+ ### ---   --- --- ---  QH
+> u
+            JD --- --- ---
+
+  JH       10D  QC  7S  KS
+ ### ---   --- --- ---  QH
+> u
+            JD --- --- ---
+
+  QH       10D  QC  7S  KS
+ ### ---  
+> q
+Another game? [yn] n
