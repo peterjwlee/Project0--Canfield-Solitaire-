@@ -7,7 +7,7 @@ import java.io.InputStream;
 import java.io.FileInputStream;
 
 /** Various static utility functions.
- *  @author P. N. Hilfinger
+ *  @author Peter Lee
  */
 public class Utils {
 
