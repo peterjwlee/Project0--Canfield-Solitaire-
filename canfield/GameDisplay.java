@@ -13,7 +13,7 @@ import java.io.InputStream;
 import java.io.IOException;
 
 /** A widget that displays a Pinball playfield.
- *  @author P. N. Hilfinger
+ *  @author Peter Lee
  */
 class GameDisplay extends Pad {
 
