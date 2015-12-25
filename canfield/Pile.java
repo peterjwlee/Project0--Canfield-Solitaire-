@@ -9,7 +9,7 @@ import java.util.Random;
 import static canfield.Main.*;
 
 /** Represents a pile of cards.
- *  @author P. N. Hilfinger
+ *  @author Peter Lee
  */
 class Pile {
 
