@@ -6,7 +6,7 @@ import java.util.Random;
 import static canfield.Utils.*;
 import java.util.Stack;
 /** Represents the state of a game of Canfield.
- *  @author P. N. Hilfinger
+ *  @author Peter Lee
  */
 class Game {
 
